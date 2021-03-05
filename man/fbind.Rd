@@ -7,10 +7,12 @@
 fbind(a, b)
 }
 \arguments{
-\item{b}{}
+\item{a}{factor}
+
+\item{b}{factor}
 }
 \value{
-
+factor
 }
 \description{
 Create a new factor from two existing factors, where the new factor's levels
